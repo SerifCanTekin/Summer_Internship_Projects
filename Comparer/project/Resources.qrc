@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>new_file.png</file>
+        <file>645-6451683_file-folder-icon-vector-png-download-open-folder.png</file>
+        <file>44-441675_save-button-png-transparent-image-save-as-file.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
